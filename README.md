@@ -1,0 +1,1 @@
+# freednsadmin.dnspod.com
